@@ -140,9 +140,7 @@ FastAPI server will be running at `localhost:8000`.
 6. Format with `poetry run ruff format .`
 7. Check with `poetry run ruff check .`
 8. Type check with `poetry run mypy --show-error-codes .`
-
-
-
+```
 git clone https://pip.wizard@bitbucket.org/code-bucket-workspace/bitbucket-upload-file-pkg-packager.git
 ```
 1 Create Python app First, we’ll create a new directory for our Python app. We’ll call it clean-db-cron.The database we’ll be using is Redis, so we’ll need to install the upstash_redis package. Copy Ask AI
