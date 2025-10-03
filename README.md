@@ -35,7 +35,11 @@ First, create a new directory and set up a virtual environment:
 ```sh
 python -m venv venv
 source venv/bin/activate
+pip install -r requirements.txt
 ```
+
+
+#This will create and activate a virtual environment named .venv
 
 Then, install the required packages:
 
