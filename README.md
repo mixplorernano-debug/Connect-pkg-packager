@@ -1,32 +1,8 @@
-# Connect-pkg-packager
-Connect-pkg-packager
+# python -m venv venv
+source venv/bin/activate
 
 What is this repository for?
-
-Quick summary
-    Version
-    Learn Markdown
-
-How do I get set up?
-
- Summary of set up
-    Configuration
-    Dependencies
-    Database configuration
-    How to run tests
-    Deployment instructions
-
-# Upstash Workflow SDK
-
-**Upstash Workflow** lets you write durable, reliable and performant serverless functions. Get delivery guarantees, automatic retries on failure, scheduling and more without managing any infrastructure.
-
-See [the documentation](https://upstash.com/docs/workflow/getstarted) for more details
-
-## Quick Start
-
-Here, we will briefly showcase how you can get started with Upstash Workflow using FastAPI.
-
-Alternatively, you can check [our quickstarts for different frameworks](https://upstash.com/docs/workflow/quickstarts/platforms), including [FastAPI](https://upstash.com/docs/workflow/quickstarts/fastapi) and [Next.js & FastAPI](https://upstash.com/docs/workflow/quickstarts/nextjs-fastapi).
+%!VENV
 
 ### Install
 
